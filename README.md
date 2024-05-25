@@ -32,7 +32,7 @@ TMDB Dataset: Contains comprehensive information about movies, including metadat
 # Installation
 To get started with the project, follow these steps:
 1.Clone the repository:
-  git clone https://github.com/yourusername/movie-recommender-system.git
+  git clone https://github.com/Asthagupta622/movie-recommender-system.git
   cd movie-recommender-system
 2.Create a Virtual environment and activate it.
 python -m venv venv
